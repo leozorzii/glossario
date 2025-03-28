@@ -5,5 +5,6 @@ modelos de negócios:
 SAAS:Serviços da web, serviços de nuvem.
 PAAS:plataformas da web, para ajudar no mercado financeiro
 IAAS: infraestrutura para empresas, de forma web.
-sistemas obliquos: Operações que funcionam remotamente feitas por trás da visão do usuário
-sistemas pervasivos: computação frequente no ambiente que não é percebida pelo usuário.EX:Sonoff(tomada inteligente)
+sistemas obiquos:  
+sistemas pervasivos: computação frequente no ambiente que não é percebida pelo usuário, automação residencial.EX:Sonoff(tomada inteligente), marca-passso, chromecast.
+API: biblioteca, pacote, framework.
