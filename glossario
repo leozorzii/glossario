@@ -1,10 +1,11 @@
 git=is version control software that tracks changes to source code files.
 hub=means "connection" or "central point". It can refer to a piece of equipment, a physical or virtual space, or a concept applied in different contexts.
-internet das coisas: descreve a rede de objetos físicos incorporados a sensores, software e outras tecnologias com o objetivo de conectar e trocar dados com outros dispositivos e sistemas pela internet.
+internet das coisas(SEGURANÇA): descreve a rede de objetos físicos incorporados a sensores, software e outras tecnologias com o objetivo de conectar e trocar dados com outros dispositivos e sistemas pela internet.
 modelos de negócios:
 SAAS:Serviços da web, serviços de nuvem.
 PAAS:plataformas da web, para ajudar no mercado financeiro
 IAAS: infraestrutura para empresas, de forma web.
-sistemas obiquos:computação ferenquente no ambiente.ex:smarthphones, smarthtvs, etc...
+DISPOSITIVOS QUE CONVERSAM ENTRE SI:
+sistemas obiquos:computação ferenquente no ambiente.ex:smarthphones, smarthtvs,geladaira etc...
 sistemas pervasivos: computação frequente no ambiente que não é percebida pelo usuário, automação residencial.EX:Sonoff(tomada inteligente), marca-passso, chromecast.
 API: biblioteca, pacote, framework.
